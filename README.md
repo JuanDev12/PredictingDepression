@@ -13,3 +13,5 @@ Se usaron metodos de clasificación tales como:
 * DecisionTreeClassifier
 * SVC
 * NeuralNetwork
+
+Video: https://youtu.be/c4BcvsHTqwk
